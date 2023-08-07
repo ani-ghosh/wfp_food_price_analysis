@@ -34,3 +34,7 @@ da <- lapply(f, read_csv)
 dd <- bind_rows(da)
 
 write.fst(dd, paste0("data/interim/wfp_food_prices_all_countries_updated_", format(Sys.time(), "%Y-%m"), ".fst"),100)
+
+# move to git
+library(usethis)
+use_git_ignore(f, directory = ".")
