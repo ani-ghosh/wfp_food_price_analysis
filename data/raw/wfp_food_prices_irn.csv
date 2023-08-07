@@ -1,0 +1,1174 @@
+date,admin1,admin2,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice
+#date,#adm1+name,#adm2+name,#loc+market+name,#geo+lat,#geo+lon,#item+type,#item+name,#item+unit,#item+price+flag,#item+price+type,#currency,#value,#value+usd
+2012-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,26860.0,2.1909
+2012-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,52760.0,4.3034
+2012-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,15890.0,1.2961
+2012-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,25790.0,2.1036
+2012-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,27369.0,2.2324
+2012-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,27000.0,2.205
+2012-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,40210.0,3.2838
+2012-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,15850.0,1.2944
+2012-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,27880.0,2.2768
+2012-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,27810.0,2.2711
+2012-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,27000.0,2.2494
+2012-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,40890.0,3.4066
+2012-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,15800.0,1.3163
+2012-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,27880.0,2.3228
+2012-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,27720.0,2.3094
+2012-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,27000.0,2.2023
+2012-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,52720.0,4.3002
+2012-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,15910.0,1.2977
+2012-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,27880.0,2.2741
+2012-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,27945.0,2.2794
+2012-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,27000.0,2.2294
+2012-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,48410.0,3.9972
+2012-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,15970.0,1.3186
+2012-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,27880.0,2.302
+2012-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,28116.0,2.3215
+2012-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,27000.0,2.2023
+2012-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,73940.0,6.031
+2012-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,15990.0,1.3042
+2012-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,27920.0,2.2773
+2012-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,29259.0,2.3865
+2012-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,32250.0,2.6539
+2012-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,73490.0,6.0476
+2012-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,17930.0,1.4755
+2012-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,31680.0,2.607
+2012-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,30924.0,2.5448
+2012-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,36660.0,3.0373
+2012-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,84150.0,6.9718
+2012-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,18230.0,1.5104
+2012-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,37520.0,3.1085
+2012-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,33705.0,2.7925
+2012-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,36420.0,2.9706
+2012-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,70890.0,5.7822
+2012-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,18350.0,1.4967
+2012-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,37620.0,3.0685
+2012-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,33705.0,2.7492
+2013-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,39810.0,3.2963
+2013-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,71030.0,5.8814
+2013-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,18090.0,1.4979
+2013-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,37620.0,3.115
+2013-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,34137.0,2.8266
+2013-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,40160.0,3.3308
+2013-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,76600.0,6.3532
+2013-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,17860.0,1.4813
+2013-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,37690.0,3.126
+2013-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,45000.0,3.7323
+2013-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,41880.0,3.4891
+2013-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,77170.0,6.4292
+2013-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,17860.0,1.488
+2013-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,37700.0,3.1409
+2013-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,45630.0,3.8015
+2013-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,43480.0,3.6104
+2013-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,72800.0,6.045
+2013-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,17860.0,1.483
+2013-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,37700.0,3.1304
+2013-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,54270.0,4.5064
+2013-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,48180.0,3.9759
+2013-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,77880.0,6.4268
+2013-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,21590.0,1.7816
+2013-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,50340.0,4.1542
+2013-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,54531.0,4.5
+2013-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,54650.0,4.4576
+2013-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,80370.0,6.5555
+2013-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,22320.0,1.8206
+2013-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,45930.0,3.7463
+2013-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,55863.0,4.5565
+2013-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55800.0,4.6249
+2013-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,78450.0,6.5023
+2013-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,22200.0,1.84
+2013-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,45930.0,3.8069
+2013-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,58068.0,4.8129
+2013-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,56830.0,2.3293
+2013-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,86330.0,3.5384
+2013-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,22390.0,0.9177
+2013-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,45970.0,1.8842
+2013-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,56529.0,2.317
+2013-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,57270.0,2.3084
+2013-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,92770.0,3.7393
+2013-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,22480.0,0.9061
+2013-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,45970.0,1.8529
+2013-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,55512.0,2.2375
+2013-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,57170.0,2.3229
+2013-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,89930.0,3.6541
+2013-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,23030.0,0.9358
+2013-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,46000.0,1.8691
+2013-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,54756.0,2.2249
+2013-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,57500.0,2.3315
+2013-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,91000.0,3.6899
+2013-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,23090.0,0.9363
+2013-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,45980.0,1.8644
+2013-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,54783.0,2.2214
+2013-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,56660.0,2.2851
+2013-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,91820.0,3.7031
+2013-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,23310.0,0.9401
+2013-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,45980.0,1.8544
+2013-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,50688.0,2.0443
+2014-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,56100.0,2.2604
+2014-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,93500.0,3.7673
+2014-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,23610.0,0.9513
+2014-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48950.0,1.9723
+2014-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,49590.0,1.9981
+2014-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55930.0,2.2477
+2014-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,93720.0,3.7664
+2014-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,23630.0,0.9496
+2014-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48970.0,1.968
+2014-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,49914.0,2.0059
+2014-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55610.0,2.2101
+2014-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,95130.0,3.7807
+2014-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,23610.0,0.9383
+2014-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48950.0,1.9454
+2014-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,47133.0,1.8732
+2014-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55580.0,2.1862
+2014-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,80610.0,3.1707
+2014-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,23580.0,0.9275
+2014-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48920.0,1.9242
+2014-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,47169.0,1.8553
+2014-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55730.0,2.1865
+2014-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,69550.0,2.7287
+2014-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,24480.0,0.9604
+2014-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48850.0,1.9165
+2014-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,47745.0,1.8732
+2014-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55730.0,2.1756
+2014-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,83750.0,3.2695
+2014-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,24630.0,0.9615
+2014-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48850.0,1.907
+2014-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,44973.0,1.7557
+2014-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55670.0,2.1439
+2014-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,77830.0,2.9973
+2014-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,24660.0,0.9497
+2014-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48850.0,1.8813
+2014-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,44973.0,1.732
+2014-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55670.0,2.1049
+2014-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,86900.0,3.2858
+2014-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,24630.0,0.9313
+2014-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48850.0,1.8471
+2014-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,44973.0,1.7005
+2014-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55670.0,2.0901
+2014-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,89820.0,3.3723
+2014-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,24660.0,0.9259
+2014-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48880.0,1.8352
+2014-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,44730.0,1.6794
+2014-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55600.0,2.0835
+2014-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,95480.0,3.5779
+2014-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,24700.0,0.9256
+2014-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.8313
+2014-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,45990.0,1.7234
+2014-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,58410.0,2.1827
+2014-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,89800.0,3.3556
+2014-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,24660.0,0.9215
+2014-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.8262
+2014-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,46818.0,1.7495
+2014-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,59000.0,2.1875
+2014-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,93530.0,3.4677
+2014-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,24700.0,0.9158
+2014-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.8119
+2014-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,55899.0,2.0725
+2015-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,63760.0,2.3332
+2015-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,48870.0,1.7883
+2015-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,29000.0,1.0612
+2015-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.7883
+2015-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,80145.0,2.9327
+2015-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,58700.0,2.1249
+2015-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,88530.0,3.2047
+2015-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,24950.0,0.9032
+2015-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.769
+2015-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,58554.0,2.1196
+2015-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55610.0,1.9939
+2015-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,95130.0,3.4108
+2015-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,23610.0,0.8465
+2015-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48950.0,1.7551
+2015-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,47133.0,1.6899
+2015-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,58970.0,2.0939
+2015-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,82280.0,2.9216
+2015-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,25310.0,0.8987
+2015-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48930.0,1.7374
+2015-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,59067.0,2.0973
+2015-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,55730.0,1.9537
+2015-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,69550.0,2.4382
+2015-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,24480.0,0.8582
+2015-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48850.0,1.7125
+2015-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,47745.0,1.6738
+2015-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,60800.0,2.0912
+2015-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,102140.0,3.5131
+2015-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,25950.0,0.8926
+2015-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48860.0,1.6805
+2015-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,68337.0,2.3505
+2015-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,61230.0,2.0788
+2015-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,80410.0,2.7299
+2015-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,26750.0,0.9082
+2015-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.6591
+2015-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,69840.0,2.3711
+2015-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,61230.0,2.0565
+2015-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,84730.0,2.8458
+2015-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,26750.0,0.8985
+2015-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.6414
+2015-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,71721.0,2.4089
+2015-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,61230.0,2.0439
+2015-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,84170.0,2.8097
+2015-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,26640.0,0.8893
+2015-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.6313
+2015-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,71694.0,2.3932
+2015-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,63330.0,2.114
+2015-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,81930.0,2.7348
+2015-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,27110.0,0.9049
+2015-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.6313
+2015-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,72198.0,2.41
+2015-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,63970.0,2.1307
+2015-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,100600.0,3.3508
+2015-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,27890.0,0.929
+2015-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.6278
+2015-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,80433.0,2.679
+2015-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,63650.0,2.1141
+2015-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,101540.0,3.3726
+2015-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,28070.0,0.9323
+2015-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.6232
+2015-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,79020.0,2.6246
+2016-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,63760.0,2.1144
+2016-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,108900.0,3.6113
+2016-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,29000.0,0.9617
+2016-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.6206
+2016-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,80145.0,2.6577
+2016-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,67190.0,2.2256
+2016-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,116240.0,3.8503
+2016-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,29860.0,0.9891
+2016-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.6187
+2016-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,85149.0,2.8204
+2016-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,67110.0,2.2202
+2016-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,92970.0,3.0757
+2016-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,30180.0,0.9984
+2016-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.6167
+2016-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,84393.0,2.7919
+2016-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,67110.0,2.2159
+2016-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,87520.0,2.8899
+2016-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,30370.0,1.0028
+2016-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.6137
+2016-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,84699.0,2.7967
+2016-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,67080.0,2.2078
+2016-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,80900.0,2.6627
+2016-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,30110.0,0.991
+2016-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48870.0,1.6085
+2016-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,85284.0,2.807
+2016-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,68460.0,2.2387
+2016-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,85800.0,2.8058
+2016-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,32670.0,1.0683
+2016-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48820.0,1.5965
+2016-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,84159.0,2.7521
+2016-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,83370.0,2.7049
+2016-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,81310.0,2.6381
+2016-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,35630.0,1.156
+2016-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,48780.0,1.5826
+2016-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,81243.0,2.6359
+2016-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,89000.0,2.862
+2016-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,102030.0,3.281
+2016-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,40410.0,1.2995
+2016-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,50550.0,1.6255
+2016-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,84546.0,2.7187
+2016-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,90590.0,2.889
+2016-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,95210.0,3.0364
+2016-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,39760.0,1.268
+2016-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,51240.0,1.6341
+2016-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,84582.0,2.6974
+2016-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,98620.0,3.1195
+2016-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,87970.0,2.7826
+2016-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,38300.0,1.2115
+2016-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52500.0,1.6607
+2016-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,84429.0,2.6706
+2016-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,98960.0,3.0988
+2016-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,93290.0,2.9213
+2016-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,37700.0,1.1805
+2016-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52600.0,1.6471
+2016-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,85914.0,2.6903
+2016-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,97830.0,3.0356
+2016-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,103860.0,3.2227
+2016-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,37300.0,1.1574
+2016-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52930.0,1.6424
+2016-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,86607.0,2.6873
+2017-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,97870.0,3.0234
+2017-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,107690.0,3.3267
+2017-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,35960.0,1.1109
+2017-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52930.0,1.6351
+2017-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,87867.0,2.7144
+2017-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,89600.0,2.7669
+2017-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,105480.0,3.2573
+2017-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,36370.0,1.1231
+2017-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52930.0,1.6345
+2017-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,86841.0,2.6817
+2017-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,97800.0,3.0169
+2017-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,126480.0,3.9017
+2017-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,35940.0,1.1087
+2017-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52930.0,1.6328
+2017-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,105129.0,3.243
+2017-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,97800.0,3.0225
+2017-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,114590.0,3.5414
+2017-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,35260.0,1.0897
+2017-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52930.0,1.6358
+2017-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,86850.0,2.6841
+2017-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,97190.0,2.9951
+2017-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,103170.0,3.1794
+2017-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,35270.0,1.0869
+2017-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52600.0,1.621
+2017-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,89820.0,2.768
+2017-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,96930.0,2.9853
+2017-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,103170.0,3.1774
+2017-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,35830.0,1.1035
+2017-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52600.0,1.62
+2017-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,89055.0,2.7427
+2017-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,96480.0,2.9588
+2017-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,105410.0,3.2326
+2017-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,34570.0,1.0602
+2017-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52430.0,1.6079
+2017-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,88263.0,2.7068
+2017-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,97000.0,2.9702
+2017-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,128790.0,3.9436
+2017-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,34490.0,1.0561
+2017-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52430.0,1.6054
+2017-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,88110.0,2.698
+2017-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,97000.0,2.9253
+2017-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,110240.0,3.3246
+2017-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,33090.0,0.9979
+2017-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52430.0,1.5812
+2017-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,88110.0,2.6572
+2017-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,96690.0,2.8139
+2017-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,110520.0,3.2164
+2017-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,32430.0,0.9438
+2017-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52430.0,1.5259
+2017-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,81693.0,2.3775
+2017-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,96590.0,2.8183
+2017-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,130000.0,3.7932
+2017-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,32170.0,0.9387
+2017-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52430.0,1.5298
+2017-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,83367.0,2.4325
+2017-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,96070.0,2.8032
+2017-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,145810.0,4.2545
+2017-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,32270.0,0.9416
+2017-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52430.0,1.5298
+2017-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,83970.0,2.4501
+2018-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,96070.0,2.6528
+2018-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,140320.0,3.8747
+2018-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,32330.0,0.8927
+2018-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52430.0,1.4478
+2018-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,81531.0,2.2514
+2018-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,96070.0,2.6056
+2018-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,164000.0,4.4481
+2018-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,32270.0,0.8752
+2018-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52430.0,1.422
+2018-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,83493.0,2.2645
+2018-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,96070.0,2.5611
+2018-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,169210.0,4.5109
+2018-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,32270.0,0.8603
+2018-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52430.0,1.3977
+2018-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,85617.0,2.2825
+2018-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,96400.0,2.4235
+2018-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,138790.0,3.4892
+2018-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,32270.0,0.8113
+2018-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52500.0,1.3199
+2018-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,85410.0,2.1472
+2018-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,96730.0,2.3031
+2018-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,155810.0,3.7098
+2018-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,34530.0,0.8221
+2018-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,52430.0,1.2483
+2018-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,83907.0,1.9978
+2018-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,96890.0,2.2922
+2018-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,160240.0,3.7909
+2018-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,35020.0,0.8285
+2018-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,55490.0,1.3128
+2018-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,83061.0,1.965
+2018-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,97230.0,2.2452
+2018-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,176410.0,4.0736
+2018-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,35550.0,0.8209
+2018-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,57290.0,1.3229
+2018-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,82836.0,1.9128
+2018-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,100820.0,2.4005
+2018-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,184330.0,4.3888
+2018-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,41870.0,0.9969
+2018-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,57540.0,1.37
+2018-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,83718.0,1.9933
+2018-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,103430.0,2.4626
+2018-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,179730.0,4.2793
+2018-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,42340.0,1.0081
+2018-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,61960.0,1.4752
+2018-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,83943.0,1.9986
+2018-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,110510.0,2.6312
+2018-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,184020.0,4.3814
+2018-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,42680.0,1.0162
+2018-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,70230.0,1.6721
+2018-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,85194.0,2.0284
+2018-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,113170.0,2.6945
+2018-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,203560.0,4.8467
+2018-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,44190.0,1.0521
+2018-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,75050.0,1.7869
+2018-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,133470.0,3.1779
+2018-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,116580.0,2.7757
+2018-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,214950.0,5.1179
+2018-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,43200.0,1.0286
+2018-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,75000.0,1.7857
+2018-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,82737.0,1.9699
+2019-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,116580.0,2.7757
+2019-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,214950.0,5.1179
+2019-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,43200.0,1.0286
+2019-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,75000.0,1.7857
+2019-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,82737.0,1.9699
+2020-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,71149.0,1.694
+2020-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,6085.0,0.1449
+2020-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,42067.0,1.0016
+2020-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,57313.0,1.3646
+2020-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,44550.0,1.0607
+2020-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,71149.0,1.694
+2020-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,6085.0,0.1449
+2020-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,42067.0,1.0016
+2020-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,57313.0,1.3646
+2020-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,44550.0,1.0607
+2020-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,79900.0,1.9024
+2020-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,269650.0,6.4202
+2020-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,58800.0,1.4
+2020-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,86110.0,2.0502
+2020-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,148719.6,3.5409
+2020-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,79900.0,1.9024
+2020-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,29910.0,0.7121
+2020-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,58800.0,1.4
+2020-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,82000.0,1.9524
+2020-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,2691.0,0.0641
+2020-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,175000.0,4.1667
+2020-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,327500.0,7.7976
+2020-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,60000.0,1.4286
+2020-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,95600.0,2.2762
+2020-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,255600.0,6.0857
+2020-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,170000.0,4.0476
+2020-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,378000.0,9.0
+2020-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,60000.0,1.4286
+2020-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,86000.0,2.0476
+2020-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,250200.0,5.9571
+2020-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,225000.0,5.3571
+2020-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,330000.0,7.8571
+2020-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,60000.0,1.4286
+2020-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,89000.0,2.119
+2020-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,255600.0,6.0857
+2021-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,209000.0,4.9762
+2021-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,435000.0,10.3571
+2021-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,60000.0,1.4286
+2021-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,107000.0,2.5476
+2021-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,243000.0,5.7857
+2021-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,210000.0,5.0
+2021-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,425000.0,10.119
+2021-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,60000.0,1.4286
+2021-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,110000.0,2.619
+2021-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,312300.0,7.4357
+2021-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,210000.0,5.0
+2021-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,445000.0,10.5952
+2021-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,140000.0,3.3333
+2021-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,110000.0,2.619
+2021-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,330300.0,7.8643
+2021-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,210000.0,5.0
+2021-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,390000.0,9.2857
+2021-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,120000.0,2.8571
+2021-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,125000.0,2.9762
+2021-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,339300.0,8.0786
+2021-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,230000.0,5.4762
+2021-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,350000.0,8.3333
+2021-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,120000.0,2.8571
+2021-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,125000.0,2.9762
+2021-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,333000.0,7.9286
+2021-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,240000.0,5.7143
+2021-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,350000.0,8.3333
+2021-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,110000.0,2.619
+2021-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,125000.0,2.9762
+2021-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,333000.0,7.9286
+2021-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,240000.0,5.7143
+2021-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,420000.0,10.0
+2021-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,110000.0,2.619
+2021-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,125000.0,2.9762
+2021-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,333000.0,7.9286
+2021-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,240000.0,5.7143
+2021-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,410000.0,9.7619
+2021-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,90000.0,2.1429
+2021-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,145000.0,3.4524
+2021-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,378000.0,9.0
+2021-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,280000.0,6.6667
+2021-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,510000.0,12.1429
+2021-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,150000.0,3.5714
+2021-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,145000.0,3.4524
+2021-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,405000.0,9.6429
+2021-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,300000.0,7.1429
+2021-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,520000.0,12.381
+2021-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,150000.0,3.5714
+2021-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,148000.0,3.5238
+2021-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,423000.0,10.0714
+2021-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,300000.0,7.1386
+2021-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,500000.0,11.8977
+2021-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,150000.0,3.5693
+2021-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,150000.0,3.5693
+2021-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,594000.0,14.1344
+2021-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,300000.0,7.1386
+2021-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,470000.0,11.1838
+2021-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,150000.0,3.5693
+2021-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,150000.0,3.5693
+2021-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,549000.0,13.0637
+2022-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,300000.0,7.1429
+2022-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,450000.0,10.7143
+2022-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,165000.0,3.9286
+2022-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,150000.0,3.5714
+2022-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,594000.0,14.1429
+2022-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,300000.0,7.1429
+2022-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,450000.0,10.7143
+2022-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,163500.0,3.8929
+2022-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,155000.0,3.6905
+2022-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,585000.0,13.9286
+2022-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,330000.0,7.8571
+2022-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,456000.0,10.8571
+2022-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,160000.0,3.8095
+2022-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,145000.0,3.4524
+2022-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,585000.0,13.9286
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,15000.0,0.3571
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,63000.0,1.5
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,130000.0,3.0952
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,300000.0,7.1429
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,155500.0,3.7024
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,456000.0,10.8571
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,300000.0,7.1429
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,300000.0,7.1429
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,220000.0,5.2381
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,61800.0,1.4714
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,174000.0,4.1429
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,40000.0,0.9524
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,163500.0,3.8929
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,780000.0,18.5714
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,355000.0,8.4524
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,280000.0,6.6667
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,97500.0,2.3214
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,50000.0,1.1905
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,190000.0,4.5238
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,145000.0,3.4524
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,140000.0,3.3333
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,500000.0,11.9048
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,500000.0,11.9048
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,640000.0,15.2381
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,550000.0,13.0952
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,180000.0,4.2857
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,104000.0,2.4762
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,100000.0,2.381
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,68000.0,1.619
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,180000.0,4.2857
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,140000.0,3.3333
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4762
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,165400.0,3.9381
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,140000.0,3.3333
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,350000.0,8.3333
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,165000.0,3.9286
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,610000.0,14.5238
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,300000.0,7.1429
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,600000.0,14.2857
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,450000.0,10.7143
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,65000.0,1.5476
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,280000.0,6.6667
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,40000.0,0.9524
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,163500.0,3.8929
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,780000.0,18.5714
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,430000.0,10.2381
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,280000.0,6.6667
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,97500.0,2.3214
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,75000.0,1.7857
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,260000.0,6.1905
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,650000.0,15.4762
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,630000.0,15.0
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,600000.0,14.2857
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,620000.0,14.7619
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,660000.0,15.7143
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,720000.0,17.1429
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,230000.0,5.4762
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,120000.0,2.8571
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,160000.0,3.8095
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,70000.0,1.6667
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,200000.0,4.7619
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,150000.0,3.5714
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4762
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,165400.0,3.9381
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,170000.0,4.0476
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,390000.0,9.2857
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,170000.0,4.0476
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,610000.0,14.5238
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,300000.0,7.1429
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,600000.0,14.2857
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,420000.0,10.0
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,80000.0,1.9048
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.1429
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,42000.0,1.0
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,160000.0,3.8095
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,780000.0,18.5714
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,390000.0,9.2857
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,280000.0,6.6667
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,90000.0,2.1429
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,75000.0,1.7857
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,7.8571
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,640000.0,15.2381
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,600000.0,14.2857
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,620000.0,14.7619
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,650000.0,15.4762
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,620000.0,14.7619
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,250000.0,5.9524
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,110000.0,2.619
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,150000.0,3.5714
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,97000.0,2.3095
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,230000.0,5.4762
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,145000.0,3.4524
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4739
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,165400.0,3.9194
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,157500.0,3.7322
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,390000.0,9.2417
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,165000.0,3.91
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,800000.0,18.9573
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,350000.0,8.2938
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,600000.0,14.218
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,420000.0,9.9526
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,80000.0,1.8957
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.109
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,42000.0,0.9953
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,200000.0,4.7393
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,780000.0,18.4834
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,420000.0,9.9526
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,280000.0,6.6351
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,100000.0,2.3697
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0166
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.0229
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,80000.0,1.8957
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,7.8199
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2758
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,661000.0,15.6635
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,640000.0,15.1659
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,620000.0,14.6919
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,640000.0,15.1659
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,690000.0,16.3507
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,630000.0,14.9289
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,270000.0,6.3981
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,115000.0,2.7251
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,130000.0,3.0806
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,99000.0,2.346
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,230000.0,5.4502
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,125000.0,2.9621
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4751
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,170000.0,4.038
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,163000.0,3.8717
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,425000.0,10.095
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,158000.0,3.753
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,800000.0,19.0024
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,350000.0,8.3135
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,600000.0,14.2518
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,420000.0,9.9762
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,84600.0,2.0095
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.1259
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,50000.0,1.1876
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,327500.0,7.7791
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,780000.0,18.5273
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,487500.0,11.5796
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,300000.0,7.1259
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,113000.0,2.6841
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0166
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.0229
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,80000.0,1.9002
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,7.8385
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2765
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,661000.0,15.7007
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,640000.0,15.2019
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,720000.0,17.1021
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,687000.0,16.3183
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,750000.0,17.8147
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,690000.0,16.3895
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,340000.0,8.076
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,180000.0,4.2755
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,150000.0,3.5629
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,100000.0,2.3753
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,260000.0,6.1758
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,180000.0,4.2755
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4762
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,170000.0,4.0476
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,170000.0,4.0476
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,400000.0,9.5238
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,158000.0,3.7619
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,900000.0,21.4286
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,350000.0,8.3333
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,620000.0,14.7619
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,420000.0,10.0
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,85000.0,2.0238
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.1429
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,45000.0,1.0714
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,250000.0,5.9524
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,700000.0,16.6667
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,450000.0,10.7143
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,330000.0,7.8571
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,120000.0,2.8571
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,85000.0,2.0238
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,7.8571
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,661000.0,15.7381
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,640000.0,15.2381
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,700000.0,16.6667
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,680000.0,16.1905
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,700000.0,16.6667
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,650000.0,15.4762
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,300000.0,7.1429
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,170000.0,4.0476
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,130000.0,3.0952
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,80000.0,1.9048
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,250000.0,5.9524
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,160000.0,3.8095
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4762
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,281000.0,6.6905
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,180000.0,4.2857
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,400000.0,9.5238
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,158000.0,3.7619
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,900000.0,21.4286
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,350000.0,8.3333
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,650000.0,15.4762
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,420000.0,10.0
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,85000.0,2.0238
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.1429
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,55000.0,1.3095
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,250000.0,5.9524
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,600000.0,14.2857
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,450000.0,10.7143
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,330000.0,7.8571
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,120000.0,2.8571
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,85000.0,2.0238
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,7.8571
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,594000.0,14.1429
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,594000.0,14.1429
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,700000.0,16.6667
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,680000.0,16.1905
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,779000.0,18.5476
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,680000.0,16.1905
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,350000.0,8.3333
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,180000.0,4.2857
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,120000.0,2.8571
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,90000.0,2.1429
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,240000.0,5.7143
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,160000.0,3.8095
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4762
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,200000.0,4.7619
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,170000.0,4.0476
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,400000.0,9.5238
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,155000.0,3.6905
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,940000.0,22.381
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,350000.0,8.3333
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,650000.0,15.4762
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,420000.0,10.0
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,85000.0,2.0238
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.1429
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,55000.0,1.3095
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,310000.0,7.381
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,600000.0,14.2857
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,450000.0,10.7143
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,350000.0,8.3333
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,110000.0,2.619
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,85000.0,2.0238
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,7.8571
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,594000.0,14.1429
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,594000.0,14.1429
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,600000.0,14.2857
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,650000.0,15.4762
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,750000.0,17.8571
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,600000.0,14.2857
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,380000.0,9.0476
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,157000.0,3.7381
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,95000.0,2.2619
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,130000.0,3.0952
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,240000.0,5.7143
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,140000.0,3.3333
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4866
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,200000.0,4.8662
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,150000.0,3.6496
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,400000.0,9.7324
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,150000.0,3.6496
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,945000.0,22.9927
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,350000.0,8.5158
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,650000.0,15.8151
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,420000.0,10.219
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,90000.0,2.1898
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.2993
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,55000.0,1.3382
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,310000.0,7.5426
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,650000.0,15.8151
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,450000.0,10.9489
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,370000.0,9.0024
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,130000.0,3.163
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.017
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.0235
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,85000.0,2.0681
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,8.0292
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2832
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,594000.0,14.4526
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,594000.0,14.4526
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,650000.0,15.8151
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,650000.0,15.8151
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,760000.0,18.4915
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,650000.0,15.8151
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,380000.0,9.2457
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,180000.0,4.3796
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,120000.0,2.9197
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,190000.0,4.6229
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,240000.0,5.8394
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,120000.0,2.9197
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4762
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,180000.0,4.2857
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,160000.0,3.8095
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,400000.0,9.5238
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,150000.0,3.5714
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,850000.0,20.2381
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,360000.0,8.5714
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,600000.0,14.2857
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,420000.0,10.0
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,90000.0,2.1429
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.1429
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,55000.0,1.3095
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,230000.0,5.4762
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,800000.0,19.0476
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,450000.0,10.7143
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,300000.0,7.1429
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,130000.0,3.0952
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,95000.0,2.2619
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,7.8571
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,680000.0,16.1905
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,680000.0,16.1905
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,760000.0,18.0952
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,700000.0,16.6667
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,400000.0,9.5238
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,220000.0,5.2381
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,120000.0,2.8571
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,260000.0,6.1905
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,250000.0,5.9524
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,160000.0,3.8095
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4762
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,180000.0,4.2857
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,160000.0,3.8095
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,410000.0,9.7619
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,160000.0,3.8095
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,900000.0,21.4286
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,400000.0,9.5238
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,630000.0,15.0
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,420000.0,10.0
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,90000.0,2.1429
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.1429
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,55000.0,1.3095
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,230000.0,5.4762
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,850000.0,20.2381
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,450000.0,10.7143
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,300000.0,7.1429
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,130000.0,3.0952
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,98000.0,2.3333
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,7.8571
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,680000.0,16.1905
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,680000.0,16.1905
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,750000.0,17.8571
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,700000.0,16.6667
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,250000.0,5.9524
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,270000.0,6.4286
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,240000.0,5.7143
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,310000.0,7.381
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,260000.0,6.1905
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,210000.0,5.0
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4762
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,180000.0,4.2857
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,150000.0,3.5714
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,420000.0,10.0
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,150000.0,3.5714
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,900000.0,21.4286
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,400000.0,9.5238
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,640000.0,15.2381
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,420000.0,10.0
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,90000.0,2.1429
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.1429
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,50000.0,1.1905
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,235000.0,5.5952
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,850000.0,20.2381
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,450000.0,10.7143
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,300000.0,7.1429
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,130000.0,3.0952
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,98000.0,2.3333
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,7.8571
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,720000.0,17.1429
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,750000.0,17.8571
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,750000.0,17.8571
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,700000.0,16.6667
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,400000.0,9.5238
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,250000.0,5.9524
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,250000.0,5.9524
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,230000.0,5.4762
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,260000.0,6.1905
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,200000.0,4.7619
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4762
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,180000.0,4.2857
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,150000.0,3.5714
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,420000.0,10.0
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,160000.0,3.8095
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,900000.0,21.4286
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,400000.0,9.5238
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,710000.0,16.9048
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,420000.0,10.0
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,90000.0,2.1429
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.1429
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,55000.0,1.3095
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,235000.0,5.5952
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,850000.0,20.2381
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,450000.0,10.7143
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,350000.0,8.3333
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,130000.0,3.0952
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,98000.0,2.3333
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,7.8571
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,750000.0,17.8571
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,750000.0,17.8571
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,750000.0,17.8571
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,750000.0,17.8571
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,500000.0,11.9048
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,300000.0,7.1429
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,225000.0,5.3571
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,200000.0,4.7619
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,260000.0,6.1905
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,240000.0,5.7143
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4762
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,180000.0,4.2857
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,170000.0,4.0476
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,500000.0,11.9048
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,208000.0,4.9524
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,950000.0,22.619
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,550000.0,13.0952
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,810000.0,19.2857
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,430000.0,10.2381
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,80000.0,1.9048
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,300000.0,7.1429
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,55000.0,1.3095
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,235000.0,5.5952
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,900000.0,21.4286
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,450000.0,10.7143
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,350000.0,8.3333
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,130000.0,3.0952
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,98000.0,2.3333
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,330000.0,7.8571
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,850000.0,20.2381
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,780000.0,18.5714
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,750000.0,17.8571
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,750000.0,17.8571
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,600000.0,14.2857
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,250000.0,5.9524
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,200000.0,4.7619
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,150000.0,3.5714
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,260000.0,6.1905
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,200000.0,4.7619
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Bread,240 G,actual,Retail,IRR,20000.0,0.4762
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Pasta,500 G,actual,Retail,IRR,180000.0,4.2857
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Potatoes,KG,actual,Retail,IRR,180000.0,4.2857
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,actual,Retail,IRR,500000.0,11.9048
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Wheat flour,KG,actual,Retail,IRR,199800.0,4.7571
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,actual,Retail,IRR,1000000.0,23.8095
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs","Fish (tuna, canned)",180 G,actual,Retail,IRR,650000.0,15.4762
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,IRR,835000.0,19.881
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Cheese (local),450 G,actual,Retail,IRR,430000.0,10.2381
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Milk (pasteurized),200 ML,actual,Retail,IRR,90000.0,2.1429
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,milk and dairy,Yogurt,KG,actual,Retail,IRR,360000.0,8.5714
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Salt (iodised),500 G,actual,Retail,IRR,55000.0,1.3095
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,actual,Retail,IRR,255000.0,6.0714
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tea (black),500 G,actual,Retail,IRR,1100000.0,26.1905
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Tomatoes (paste),KG,actual,Retail,IRR,500000.0,11.9048
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Alcohol (spray),500 ML,actual,Retail,IRR,350000.0,8.3333
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Bleach (chlorine),750 G,actual,Retail,IRR,130000.0,3.0952
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Electricity,kWh,actual,Retail,IRR,700.0,0.0167
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Fuel (gas),Cubic meter,actual,Retail,IRR,966.0,0.023
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Handwash soap,0.13 KG,actual,Retail,IRR,110000.0,2.619
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Shampoo,450 ML,actual,Retail,IRR,376000.0,8.9524
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,non-food,Water,Cubic meter,actual,Retail,IRR,11640.0,0.2771
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (sunflower),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,actual,Retail,IRR,594000.0,14.1429
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Beans (kidney red),900 G,actual,Retail,IRR,890000.0,21.1905
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Chickpeas,900 G,actual,Retail,IRR,850000.0,20.2381
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,actual,Retail,IRR,814000.0,19.381
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,"Peas (yellow, split)",900 G,actual,Retail,IRR,850000.0,20.2381
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Apples,KG,actual,Retail,IRR,900000.0,21.4286
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Cucumbers,KG,actual,Retail,IRR,250000.0,5.9524
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Eggplants,KG,actual,Retail,IRR,200000.0,4.7619
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Onions,KG,actual,Retail,IRR,160000.0,3.8095
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Parsley,KG,actual,Retail,IRR,280000.0,6.6667
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,vegetables and fruits,Tomatoes,KG,actual,Retail,IRR,200000.0,4.7619
+2021-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice (local),KG,forecast,Retail,IRR,0.0,0.0
+2021-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2021-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar,KG,forecast,Retail,IRR,0.0,0.0
+2021-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),L,forecast,Retail,IRR,0.0,0.0
+2021-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils,KG,forecast,Retail,IRR,0.0,0.0
+2021-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice (local),KG,forecast,Retail,IRR,0.0,0.0
+2021-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2021-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar,KG,forecast,Retail,IRR,0.0,0.0
+2021-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),L,forecast,Retail,IRR,0.0,0.0
+2021-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils,KG,forecast,Retail,IRR,0.0,0.0
+2021-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice (local),KG,forecast,Retail,IRR,0.0,0.0
+2021-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2021-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar,KG,forecast,Retail,IRR,0.0,0.0
+2021-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),L,forecast,Retail,IRR,0.0,0.0
+2021-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils,KG,forecast,Retail,IRR,0.0,0.0
+2022-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice (local),KG,forecast,Retail,IRR,0.0,0.0
+2022-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar,KG,forecast,Retail,IRR,0.0,0.0
+2022-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),L,forecast,Retail,IRR,0.0,0.0
+2022-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils,KG,forecast,Retail,IRR,0.0,0.0
+2022-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice (local),KG,forecast,Retail,IRR,0.0,0.0
+2022-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar,KG,forecast,Retail,IRR,0.0,0.0
+2022-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),L,forecast,Retail,IRR,0.0,0.0
+2022-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils,KG,forecast,Retail,IRR,0.0,0.0
+2022-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice (local),KG,forecast,Retail,IRR,0.0,0.0
+2022-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar,KG,forecast,Retail,IRR,0.0,0.0
+2022-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),L,forecast,Retail,IRR,0.0,0.0
+2022-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils,KG,forecast,Retail,IRR,0.0,0.0
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice (local),KG,forecast,Retail,IRR,0.0,0.0
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar,KG,forecast,Retail,IRR,0.0,0.0
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),L,forecast,Retail,IRR,0.0,0.0
+2022-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils,KG,forecast,Retail,IRR,0.0,0.0
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice (local),KG,forecast,Retail,IRR,0.0,0.0
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar,KG,forecast,Retail,IRR,0.0,0.0
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),L,forecast,Retail,IRR,0.0,0.0
+2022-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils,KG,forecast,Retail,IRR,0.0,0.0
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice (local),KG,forecast,Retail,IRR,0.0,0.0
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar,KG,forecast,Retail,IRR,0.0,0.0
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),L,forecast,Retail,IRR,0.0,0.0
+2022-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils,KG,forecast,Retail,IRR,0.0,0.0
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice (local),KG,forecast,Retail,IRR,0.0,0.0
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar,KG,forecast,Retail,IRR,0.0,0.0
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),L,forecast,Retail,IRR,0.0,0.0
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils,KG,forecast,Retail,IRR,0.0,0.0
+2022-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice (local),KG,forecast,Retail,IRR,0.0,0.0
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar,KG,forecast,Retail,IRR,0.0,0.0
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),L,forecast,Retail,IRR,0.0,0.0
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils,KG,forecast,Retail,IRR,0.0,0.0
+2022-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2022-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2022-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2022-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2022-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-01-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-02-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-03-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-04-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-05-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-06-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-07-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-08-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-09-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-10-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-11-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
+2023-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,cereals and tubers,Rice,KG,forecast,Retail,IRR,0.0,0.0
+2023-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,"meat, fish and eggs",Eggs,1.8 KG,forecast,Retail,IRR,0.0,0.0
+2023-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,miscellaneous food,Sugar (white),KG,forecast,Retail,IRR,0.0,0.0
+2023-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,oil and fats,Oil (vegetable),810 G,forecast,Retail,IRR,0.0,0.0
+2023-12-15,Tehran,Tehran,Tehran Market,35.72,51.4,pulses and nuts,Lentils (green),900 G,forecast,Retail,IRR,0.0,0.0
